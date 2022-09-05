@@ -1,4 +1,4 @@
-# Resolução de Execícios
+# Resolução de Execícios - Programação Dinâmica
 
 **Número da Lista**: -<br>
 **Conteúdo da Disciplina**: Programação Dinâmica<br>
