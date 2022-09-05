@@ -1,44 +1,45 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Resolução de Execícios
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: -<br>
+**Conteúdo da Disciplina**: Programação Dinâmica<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0124099  |  Juliana Pereira Valle Gonçalves |
+| 18/0106805  |  Mateus Cunha Maia |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este repositório tem a solução para 4 exercícios do site https://leetcode.com/, sendo um deles fácil, dois médios e um difícil, essa é uma classificação do próprio site.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### Trapping Rain Water - 42
+
+![42](./assets/42.jpeg)
+![42](./assets/42_solution.jpeg)
+
+### Unique Paths - 62
+
+![62](./assets/62.jpeg)
+![62](./assets/62_solution.jpeg)
+
+### Climbing Stairs - 70
+
+![70](./assets/70.jpeg)
+![70](./assets/70_solution.jpeg)
+
+### Best Time to Buy and Sell Stock with Cooldown - 309
+
+![309](./assets/309.jpeg)
+![309](./assets/309_solution.jpeg)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: python <br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para testar os projetos é necessário acessar a página do problema, colocar o código no campo do código e escolher a opção de submit.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
 
