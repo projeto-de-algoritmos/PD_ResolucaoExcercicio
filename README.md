@@ -10,7 +10,7 @@
 | 18/0106805  |  Mateus Cunha Maia |
 
 ## Sobre 
-Este repositório tem a solução para 4 exercícios do site https://leetcode.com/, sendo um deles fácil, dois médios e um difícil, essa é uma classificação do próprio site.
+Este repositório tem a solução para 4 exercícios do site https://leetcode.com/, sendo dois médios e um difícil, essa é uma classificação do próprio site.
 
 ## Screenshots
 
@@ -23,11 +23,6 @@ Este repositório tem a solução para 4 exercícios do site https://leetcode.co
 
 ![62](./assets/62.jpeg)
 ![62](./assets/62_solution.jpeg)
-
-### Climbing Stairs - 70
-
-![70](./assets/70.jpeg)
-![70](./assets/70_solution.jpeg)
 
 ### Best Time to Buy and Sell Stock with Cooldown - 309
 
