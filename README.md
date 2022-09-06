@@ -12,6 +12,9 @@
 ## Sobre 
 Este repositório tem a solução para 3 exercícios do site https://leetcode.com/, sendo dois médios e um difícil, essa é uma classificação do próprio site.
 
+## Apresentação
+A apresentação do projeto pode ser vista no seguinte [link](https://www.youtube.com/watch?v=IXwAqxNZnsc).
+
 ## Screenshots
 
 ### Trapping Rain Water - 42
