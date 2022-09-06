@@ -10,7 +10,7 @@
 | 18/0106805  |  Mateus Cunha Maia |
 
 ## Sobre 
-Este repositório tem a solução para 4 exercícios do site https://leetcode.com/, sendo dois médios e um difícil, essa é uma classificação do próprio site.
+Este repositório tem a solução para 3 exercícios do site https://leetcode.com/, sendo dois médios e um difícil, essa é uma classificação do próprio site.
 
 ## Screenshots
 
